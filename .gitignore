@@ -9,3 +9,6 @@ models/
 *.png
 *.jpg
 *.csv
+# Ignore sriram.ipynb
+sriram.ipynb
+
